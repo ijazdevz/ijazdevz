@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ijaz Khan (@ijazdevz)
+- 👀 I’m interested in AI, system design, and operating system design
+- 🌱 I’m currently learning advanced Flutter, AI integration, and system architecture
+- 💞️ I’m looking to collaborate on AI-powered applications and large-scale system design projects
+- 📫 How to reach me: ijaz191@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex system design challenges!
